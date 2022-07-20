@@ -10,7 +10,7 @@ July 2022
 Visual Analytics Resource 003 for PubMed Central Article PMC7759466 
 
 Overview:
-Visual Analytics software support the performance of complex cognitive activities such as learning, decision making and problem solving (Sedig and Parsons 2013). The visual analytics resource is based on the 2020 Open Acces publication:  High-depth African genomes inform human migration and health (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7759466/) . This resource includes summary of selected learning principles that can support bioinformatics education when leveraging H3Africa pubication. This resource can be used for instruction, learning and assessment of content types (fact, concept, process, procedure,  and principle)  (Clark and Harrelson, 2002) contained in theH3Africa  publication. The worksheets, dashboards and story components of this Tableau Packaged Workbook are designed to facilitate personalized education through support for customization, individualization and adaptation (Kucirkova et al. 2021). This resource is designed for personalized education of  the two supplementary methods and supplementary tables 1 to 8 of PMC7759466.  
+Visual Analytics software support the performance of complex cognitive activities such as learning, decision making and problem solving (Sedig and Parsons 2013). The visual analytics resource is based on the 2020 Open Acces publication:  High-depth African genomes inform human migration and health (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7759466/) . This resource includes summary of selected learning principles that can support bioinformatics education when leveraging H3Africa pubication. This resource can be used for instruction, learning and assessment of content types (fact, concept, process, procedure,  and principle)  (Clark and Harrelson, 2002) contained in the H3Africa  publication. The worksheets, dashboards and story components of this Tableau Packaged Workbook are designed to facilitate personalized education through support for customization, individualization and adaptation (Kucirkova et al. 2021). This resource is designed for personalized education of  the two supplementary methods and supplementary tables 1 to 8 of PMC7759466.  
 
 You are invited to click on the tabs to interact with the components of the visual analytics resource. 
 
@@ -19,6 +19,12 @@ Data Sources:
 https://bit.ly/pmc7759466_textual_dataset
 2. Supplementary Datasets 
 https://bit.ly/pmc7759466_datasets
+
+Visual Analytics Resources:
+https://public.tableau.com/app/profile/uibgnode 
+https://public.tableau.com/app/profile/uibgnode/viz/pmc7759466_analytics/overview
+https://public.tableau.com/app/profile/uibgnode/viz/pmc7759466_data_investigations/overview
+https://public.tableau.com/app/profile/uibgnode/viz/pmc7759466_suppT19_variants/overview
 
 Reference:
 Clark, R., & Harrelson, G. L. (2002). Designing instruction that supports cognitive learning processes. Journal of athletic training, 37(4 suppl), S-152-S-159.
